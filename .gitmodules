@@ -1,0 +1,6 @@
+[submodule "external/onestop-qa"]
+	path = external/onestop-qa
+	url = https://github.com/berzak/onestop-qa.git
+[submodule "external/Goal-Decoding-from-Eye-Movements"]
+	path = external/Goal-Decoding-from-Eye-Movements
+	url = https://github.com/lacclab/Goal-Decoding-from-Eye-Movements.git
